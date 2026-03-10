@@ -1,0 +1,14 @@
+# CodeBuddy
+.codebuddy/
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
